@@ -9,7 +9,7 @@ module.exports = {
     center: L.latLng(-33.846467,151.116428),
     zoom: 12,
     waypoints: [],
-    language: 'en',
+    language: 'fr',
     alternative: 0,
     layer: streets
   },
